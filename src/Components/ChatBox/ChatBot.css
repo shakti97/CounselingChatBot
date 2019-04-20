@@ -1,0 +1,60 @@
+.right{
+    float : right;
+    color: black;
+}
+.red{
+    background-color: red;
+}
+.red1{
+    background-color: rgba(255, 99, 99,0.8);
+}
+.red2{
+    background-color: rgba(255, 109, 109,0.5);;
+}
+.red3{
+    background-color: rgba(255, 100, 100, 0.3);
+}
+.chatBox{
+    background-color: rgb(230, 228, 228);
+    border: 2px solid rgb(238, 237, 237);
+    border-radius: 2%;
+    margin-top: 10%;
+    overflow: auto;
+    max-height: 80vh;
+    /* height: 200px; */
+}
+.Question{
+    font-weight: 700;
+    font-size : 20px; 
+    margin-bottom: 2%;
+    padding-right: 5%;
+}
+.options{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 1% 1%;
+    margin: 1% 0%;
+    cursor: pointer;
+}
+.evaluationContainer{
+    margin:10%;
+}
+li{
+    list-style: none;
+}
+.clearfix{
+    content: "";
+    clear: both;
+    display: table;
+    width: 100%;
+}
+.optionList{
+    cursor: pointer;
+}
+.selectButtons button{
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+.selectButtons{
+    width: 150px;
+}

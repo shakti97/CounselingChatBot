@@ -1,0 +1,16 @@
+.evaluation{
+    padding: 30% 2%;
+    font-size: 20px;
+    font-weight: 700;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: #1295C9;
+}
+.submitTestMessage{
+    font-size: 30px;
+    color: white;
+}
+.submitTestResult{
+    font-size: 20px;
+    color: white;
+}
